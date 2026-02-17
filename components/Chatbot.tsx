@@ -16,7 +16,7 @@ interface ChatbotProps {
 export const Chatbot: React.FC<ChatbotProps> = ({ user, profile }) => {
   const [isOpen, setIsOpen] = useState(false);
   const [messages, setMessages] = useState<Message[]>([
-    { role: 'bot', content: "Hé ! Je suis Booky, ton ouistiti de l'IA ! 🐵🚀 Je survole le marché pour te dénicher les meilleures idées d'ebooks. Qu'est-ce qu'on lance aujourd'hui ?" }
+    { role: 'bot', content: "Hé ! Je suis Booky, super assistant en produit digitaux !🚀 Je t'aide à dénicher les meilleures idées d'ebooks, à valider la demande et t'aide avec des stratégies pour les vendre. Qu'est-ce qu'on lance aujourd'hui ?" }
   ]);
   const [input, setInput] = useState('');
   const [isLoading, setIsLoading] = useState(false);
