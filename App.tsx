@@ -114,7 +114,7 @@ const App: React.FC = () => {
             Transformez <br /><Typewriter /> <br />en un produit digital.
           </h1>
           <p className="text-white/40 text-lg md:text-xl max-w-2xl mb-8 animate-in fade-in duration-1000 delay-300 leading-relaxed">
-            Passez de l'idée brute à un produit PDF prêt-à-vendre. BookAIO automatise la rédaction, le design et vos visuels pour un lancement immédiat.
+            Passez de l'idée brute à un produit PDF prêt-à-vendre. BookAIO automatise la rédaction, le design et vos visuels publicitaires pour un lancement immédiat.
           </p>
           <div className="flex flex-col md:flex-row gap-4 animate-in fade-in duration-1000 delay-500 z-20 mb-12">
             <a href="#studio" className="px-12 py-5 rounded-2xl gradient-amber text-white font-bold text-lg hover:scale-105 transition-all flex items-center justify-center gap-2 group shadow-2xl shadow-red-500/20 shine-effect">
