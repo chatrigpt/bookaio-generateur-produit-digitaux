@@ -1,0 +1,8 @@
+{
+  "name": "BookAIO - Générateur de produit digitaux",
+  "description": "BookAIO transformes vos idées, vos vidéos, vos liens en ebook prêt à être vendu.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
