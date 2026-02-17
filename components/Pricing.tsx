@@ -58,7 +58,7 @@ export const Pricing: React.FC<PricingProps> = ({ userEmail, userId, onPaymentSu
     
     const handler = (window as any).PaystackPop.setup({
       // Clé Live mise à jour
-      key: 'pk_live_29053c2489c4562c27f56994850a7ff081b2bfe4', 
+      key: 'pk_test_fc845294a5388ceae604de80ee9d7661f11aeeff', 
       email: userEmail,
       amount: amount * 100, 
       currency: 'XOF',
