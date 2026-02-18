@@ -12,37 +12,37 @@ const testimonials = [
     name: "Koffi Mensah",
     handle: "@koffi_digital",
     text: "Incroyable ! J'ai transformé une simple vidéo de ma formation en ebook de 45 pages. Vendu 12 exemplaires la première semaine. 🚀",
-    avatar: "https://res.cloudinary.com/dt9sxjxve/image/upload/v1769622270/Untitled_design_8_wjqig7.jpg"
+    avatar: "https://monadia-bucket.sfo3.digitaloceanspaces.com/Untitled%20design%20(8).jpg"
   },
   {
     name: "Fatou Diop",
     handle: "@fatoud",
     text: "Le générateur de covers est d'un niveau supérieur. On dirait que j'ai payé un designer pro 500€. BookAIO c'est de la triche ! 😂",
-    avatar: "https://res.cloudinary.com/dt9sxjxve/image/upload/v1769622058/Untitled_design_7_rtnk2y.jpg"
+    avatar: "https://monadia-bucket.sfo3.digitaloceanspaces.com/Untitled%20design%20(5).jpg"
   },
   {
     name: "Amadou Diallo",
     handle: "@amadou_coach",
     text: "Enfin un outil qui comprend les besoins des créateurs africains. Le paiement en Fcfa et la rapidité sont top. Mon ebook sur le trading est prêt.",
-    avatar: "https://res.cloudinary.com/dt9sxjxve/image/upload/v1769621474/Untitled_design_6_l1ouf5.jpg"
+    avatar: "https://monadia-bucket.sfo3.digitaloceanspaces.com/Untitled%20design%20(6).jpg"
   },
   {
     name: "Moussa Traoré",
     handle: "@moussa_biz",
     text: "Je pensais que c'était encore une IA bidon. Mais non, le contenu est structuré, intelligent. 14900 Fcfa rentabilisés en un clic.",
-    avatar: "https://res.cloudinary.com/dt9sxjxve/image/upload/v1769621701/a0f23705-567d-4213-9ba9-688b5b45c4d5_0_qumnau.jpg"
+    avatar: "https://monadia-bucket.sfo3.digitaloceanspaces.com/Capture%20d%E2%80%99%C3%A9cran%20(690).png"
   },
   {
     name: "Aissatou Sow",
     handle: "@aissa_creative",
-    text: "Le chatbot m'a aidé à trouver une niche rentable dans le domaine culinaire. Résultat : 2 ebooks générés en 30 minutes. Merci BookAIO !",
+    text: "Le chatbot m'a aidé à trouver une niche rentable dans le domaine culinaire. Résultat : 5 ebooks générés en 15 minutes. Merci BookAIO !",
     avatar: "https://i.pravatar.cc/150?u=aissatou"
   },
   {
     name: "Abdoulaye Koné",
     handle: "@abdou_k",
     text: "L'option de vocal pour générer l'ebook est géniale. J'ai juste parlé, l'IA a fait le reste. La qualité est bluffante.",
-    avatar: "https://res.cloudinary.com/dt9sxjxve/image/upload/v1769621164/a0f233aa-996d-4fd4-8959-f1a016b25c38_0_umn487.jpg"
+    avatar: "https://monadia-bucket.sfo3.digitaloceanspaces.com/Gemini_Generated_Image_3szo3c3szo3c3szo.png"
   }
 ];
 
