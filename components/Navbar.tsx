@@ -8,7 +8,7 @@ export const Navbar: React.FC = () => {
       <div className="max-w-7xl mx-auto flex justify-between items-center pointer-events-auto">
         <div className="flex items-center gap-3 group cursor-pointer" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>
           <div className="w-10 h-10 rounded-xl overflow-hidden border border-red-500/30 shadow-lg shadow-red-500/10 group-hover:scale-110 transition-transform">
-             <img src="https://res.cloudinary.com/dt9sxjxve/image/upload/v1769591812/Untitled_design_4_fhluy3.jpg" alt="Logo" className="w-full h-full object-cover" />
+             <img src="https://monadia-bucket.sfo3.digitaloceanspaces.com/Untitled%20design%20(4).jpg" alt="Logo" className="w-full h-full object-cover" />
           </div>
           <span className="font-bold text-xl tracking-tighter">Book<span className="text-red-500">AIO</span></span>
         </div>
