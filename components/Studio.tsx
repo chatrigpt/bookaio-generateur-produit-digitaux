@@ -72,7 +72,6 @@ export const Studio: React.FC<StudioProps> = ({ user, profile, onAuthRequired })
               { id: 'ebook', icon: BookOpen, label: "Générer l'Ebook" },
               { id: 'mockup', icon: Box, label: 'Mockup 3D Elite' },
               { id: 'ad', icon: Megaphone, label: 'Arsenal Publicitaire' },
-              { id: 'video', icon: Video, label: 'Vidéo Promo (Elite)', locked: plan === 'free' },
               { id: 'history', icon: History, label: 'Archives & Logs' },
             ].map((m) => (
               <button key={m.id} disabled={m.locked} onClick={() => setMode(m.id as any)} className={`w-full flex items-center justify-between px-6 py-5 rounded-2xl transition-all border ${mode === m.id ? 'bg-red-500/10 border-red-500/40 text-white' : 'hover:bg-white/5 border-transparent text-white/40'} ${m.locked ? 'opacity-30 cursor-not-allowed' : ''}`}>
