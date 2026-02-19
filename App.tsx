@@ -108,7 +108,7 @@ const App: React.FC = () => {
         <div className="max-w-7xl mx-auto flex flex-col items-center text-center">
           <div className="inline-flex items-center gap-3 px-4 py-2 rounded-full glass border-white/5 mb-6 animate-in fade-in slide-in-from-top-4 duration-700">
             <img src="https://monadia-bucket.sfo3.digitaloceanspaces.com/5%20STARS.png" alt="Elite" className="w-16 h-3 object-contain opacity-80" />
-            <span className="text-[9px] font-bold uppercase tracking-[0.3em] text-red-500/80">L'Elite de la création de produit numérique</span>
+            <span className="text-[9px] font-bold uppercase tracking-[0.3em] text-red-500/80">L'Elite de la création de produit digital</span>
           </div>
           <h1 className="text-6xl md:text-[8.5rem] font-serif max-w-7xl leading-[0.9] mb-6 animate-in fade-in slide-in-from-bottom-4 duration-1000 tracking-tighter">
             Transformez <br /><Typewriter /> <br />en un produit digital.
